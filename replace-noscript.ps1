@@ -5,7 +5,7 @@ foreach-object {
     $ext = (Get-ChildItem $a).Extension
     
     Write-Output "processing $a";
-    Write-Output "ext = $ext"
+    # Write-Output "ext = $ext"
     
     # if folder, skip
     if(Test-Path -Path $a -PathType Container) {
@@ -14,7 +14,7 @@ foreach-object {
     } 
 
     #if contains 'images.squarespace-cdn.com' in path, skip
-    if($a -contains 'images.squarespace-cdn.com') {
+    if($a.Contains('images.squarespace-cdn.com')) {
         Write-Output "contains images.squarespace-cdn.com, skipping...";
         return;
     }
@@ -32,7 +32,7 @@ foreach-object {
 
     ( get-content $a ) |
     foreach-object { 
-        $_.replace("<noscript><img", "<img").replace("</noscript>", "");
+        $_.replace("<noscript><img", "<img").replace("</noscript>", "").replace("../images.squarespace-cdn.com/","images.squarespace-cdn.com/");
     }  | set-content $a 
     
     
