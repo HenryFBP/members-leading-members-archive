@@ -1,0 +1,35 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+membersleadingmembers.com	TRUE	/	FALSE	1999999999	crumb	BWWgTSjaDRnCOTMwM2Q3YzI4ZTg1OGVjNTkwYmViNzg3MDU1ODI2
+.facebook.com	TRUE	/	FALSE	1999999999	sb	gxVRYWkpkJAQDmXnpplF95vn
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_qf6B0JJQtGFP7pbZ7lnSzA=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A163270416827690098
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.monthlyreview.org.es	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=usc1
+www.monthlyreview.org.es	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1632704168|TGULhyh7o1Dn
+www.monthlyreview.org.es	TRUE	/	FALSE	1999999999	SameSite	None
+.instagram.com	TRUE	/	FALSE	1999999999	mid	YVEWqQAEAAG6nnsbg7gMnCe8-C6G
+.instagram.com	TRUE	/	FALSE	1999999999	ig_did	5EAFC619-E8F9-47D6-819E-B1BDBC169D70
+.instagram.com	TRUE	/	FALSE	1999999999	ig_nrcb	1
+www.buzzfeed.com	TRUE	/	FALSE	1999999999	next-i18next	en
+.buzzfeed.com	TRUE	/	FALSE	1999999999	bf-browser-language	en, *
+.buzzfeed.com	TRUE	/	FALSE	1999999999	bf-geo-country	US
+www.buzzfeed.com	TRUE	/	FALSE	1999999999	ccpa	true
+www.buzzfeednews.com	TRUE	/	FALSE	1999999999	bf-geo-country	US
+www.buzzfeednews.com	TRUE	/	FALSE	1999999999	ccpa	true
+bostonglobe.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+.google.com	TRUE	/	FALSE	1999999999	1P_JAR	2021-09-27-00
+.google.com	TRUE	/	FALSE	1999999999	NID	224=Lvn0QI8uX96ql2xERNkZWk5vnkjdQMN9djLpP1VF26qm18EoIKGAMsdN966tF1BdIsVjOO1imheX9V1CkJu9twLR8v2kN4j16Q_LiJTpcFvMdT60dxryQ7ODYxMa9uS5Xg07i3Koer5nX9AKo9LGhX93BKKn4_5pDZn0xY-n3WQ
+monthlyreview.org	TRUE	/	FALSE	1999999999	wp_woocommerce_session_525900941fadfd93044b23336ae35505	a3a152f77c20fa255fc260c6e1143a89%7C%7C1632876988%7C%7C1632873388%7C%7C2348fc1f6646132399215ca277bb1f80
+monthlyreview.org	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	19608
+membersleadingmembers.squarespace.com	TRUE	/	FALSE	1999999999	crumb	Bfdt4bS/FTrxNTFiMGFmOWQ2YzQwOGIyZDBmNTZmNWYzNDQ3MTEw
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	1
+.facebook.com	TRUE	/	FALSE	1999999999	datr	1hZRYV0dus_BH943FfZw2mWG
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0idDkq92SspZseemA..BhURWD._v.AAA.0.0.BhURb9.AWVVokJABJE
+.scribd.com	TRUE	/	FALSE	1999999999	scribd_ubtc	u%3D2af3dc18-6a31-4178-b0a3-00f5c1c8dd2c%26h%3D5rf3iHg2jPvjLIPonvML%2FjwI7%2FO1d7C4nXmIekrnDEQ%3D
+www.scribd.com	TRUE	/	FALSE	1999999999	SameSite	None
+.scribd.com	TRUE	/	FALSE	1999999999	_scribd_session	R1lqUjU4ZmZONU5ZRGR5alQzS1JJcFV1MDNNSTZYc2FGOFZ4UTBtN01jUjBwemxnZ1ljSVBJYU1ub013c1ZjSmdWQzRhVGF2dWg1ZXpLVWhicFR6RkpRU0toL2RLRExxcmlVN2lBQVcrRy85SmIxV25YWVNvVWg5VnBpLy9Ua1d2alJ5Y25YeXZRWmhMV254UXBQMk1BPT0tLWJwUDN1ZlE1WEsyVlhRbHRLY3dnSWc9PQ%3D%3D--8fdbd8c15b26962038762d665ce6cec1cd619c13
+accounts.google.com	TRUE	/	FALSE	1999999999	__Host-GAPS	1:5rIWUJ06kJrpy0Cf8UB3nherf0Si0g:Z-tcT7-7eX74nYD5
+accounts.google.com	TRUE	/	FALSE	1999999999	Priority	HIGH
+beyondchron.org	TRUE	/	FALSE	1999999999	ppwp_wp_session	08a71e4312000fafac936e0c3174776c%7C%7C1632706073%7C%7C1632705713
+
